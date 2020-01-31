@@ -35,7 +35,7 @@ int main()
         break;
     }
       printf("\n--------------------------------------------------------------\n");
-    printf("\If you want to continue press any no. except 0: ");
+    printf("\nIf you want to continue press any no. except 0: ");
     scanf("%d",&x);
     printf("\n----------------------------------------------------------------\n");
     }
